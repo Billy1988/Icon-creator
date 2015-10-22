@@ -6,8 +6,16 @@ File: <a href="http://www.white-hat-web-design.co.uk/articles/php-image-resizing
 
 ps. the link has been revoked.
 
-# Example
-1. Put this 3 files to a folder
+# PHP web-service Example
+1. Put 3 files(index.html, resizor.php, SimpleImage.php) to a folder
 2. Start server running which is supporting php programming (<a href="https://www.apachefriends.org/index.html">XAMPP</a> may help you)
 3. click on index.html
 4. Enjoy :)
+
+# bash shell script
+1 line coding :)
+
+./icon_creator {filename}
+```bash
+./icon_creator app-icon.png
+```
